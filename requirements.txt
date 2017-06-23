@@ -1,0 +1,4 @@
+Django==1.11.2
+mysqlclient==1.3.9
+wheel==0.25.0
+cx-Oracle==5.3
